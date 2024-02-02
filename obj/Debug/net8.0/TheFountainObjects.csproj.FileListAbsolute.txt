@@ -1,0 +1,15 @@
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.AssemblyInfoInputs.cache
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.AssemblyInfo.cs
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.csproj.CoreCompileInputs.cache
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.sourcelink.json
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\bin\Debug\net8.0\TheFountainObjects.exe
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\bin\Debug\net8.0\TheFountainObjects.deps.json
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\bin\Debug\net8.0\TheFountainObjects.runtimeconfig.json
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\bin\Debug\net8.0\TheFountainObjects.dll
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\bin\Debug\net8.0\TheFountainObjects.pdb
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.dll
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\refint\TheFountainObjects.dll
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.pdb
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\TheFountainObjects.genruntimeconfig.cache
+D:\estudos\C#\github\Player-Guide-Book---The-Fountain-of-Objects\obj\Debug\net8.0\ref\TheFountainObjects.dll

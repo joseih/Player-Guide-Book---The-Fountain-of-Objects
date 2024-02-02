@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects\\TheFountainObjects.csproj": {}
+    "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects.csproj": {}
   },
   "projects": {
-    "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects\\TheFountainObjects.csproj": {
+    "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects\\TheFountainObjects.csproj",
+        "projectUniqueName": "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects.csproj",
         "projectName": "TheFountainObjects",
-        "projectPath": "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects\\TheFountainObjects.csproj",
+        "projectPath": "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects.csproj",
         "packagesPath": "C:\\Users\\josei\\.nuget\\packages\\",
-        "outputPath": "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\TheFountainObjects\\obj\\",
+        "outputPath": "D:\\estudos\\C#\\github\\Player-Guide-Book---The-Fountain-of-Objects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
