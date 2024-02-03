@@ -1,2 +1,2 @@
-﻿World world = new World("small");
+﻿World world = new World("medium");
 world.Test();

@@ -15,18 +15,18 @@ public class World
         switch (size)
         {
             case "small":
-                _rooms = new IRoom[2 + 1, 2 + 1];
-                _wordlimit = 2;
+                _wordlimit = 4;
+                _rooms = new IRoom[5, 5];
                 CreateRooms();
                 break;
             case "medium":
-                _rooms = new IRoom[6 + 1, 6 + 1];
                 _wordlimit = 6;
+                _rooms = new IRoom[7, 7];
                 CreateRooms();
                 break;
             case "large":
-                _rooms = new IRoom[8, 8];
                 _wordlimit = 8;
+                _rooms = new IRoom[9, 9];
                 CreateRooms();
                 break;
         }
@@ -35,6 +35,17 @@ public class World
 
     public void CreateRooms()
     {
+        int count = 0;
+        while(count < _rooms.Length)
+        {
+            int row = random.Next(_wordlimit+1);
+            int col = random.Next(_wordlimit+1);
+            if (_rooms[row, col] == null)
+            {
+                count++;
+                _rooms[row, col] = new GenericRoom();
+            }
+        }
 
     }
     public void Test()
